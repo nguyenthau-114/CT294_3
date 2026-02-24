@@ -1,3 +1,4 @@
+#bai nhom
 import pandas as pd                 # đọc/ xử lý dữ liệu
 import joblib                      # lưu/load dữ liệu đã split
 from sklearn.model_selection import train_test_split  # chia train/test
